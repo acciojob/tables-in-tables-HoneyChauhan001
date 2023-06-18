@@ -3,3 +3,7 @@
 Table,tr,th,td{
 	border: 1px solid;
 }
+.fill{
+	background-color: black;
+	color: white
+}
